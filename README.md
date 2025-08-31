@@ -34,7 +34,7 @@ The dataset contains employee demographic details, job-related attributes, and w
 - Visualized relationships between key features and attrition
 
 ### 2. Model Building
-- Chose **[Your Model Here: Random Forest / Logistic Regression / Neural Network]**
+- Chose  Random Forest
 - Split data into **train (80%)** and **test (20%)**
 - Performed basic hyperparameter tuning
 
